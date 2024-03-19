@@ -1,5 +1,31 @@
 (kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid b50e6663-8ab4-40d5-87b6-e8da75a8c1a0)
+
   (paper "A4")
-  (lib_symbols)
-  (symbol_instances)
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 133.35 82.55) (size 26.67 22.86) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 132 0 0 1))
+    (fill (color 255 255 194 1.0000))
+    (uuid 9a94286b-2c0f-4aa6-93fe-9489f0394719)
+    (property "Sheetname" "STM_NUCLEO" (at 133.35 81.8384 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "stm_nucleo.kicad_sch" (at 133.35 105.9946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "nucleo_shield"
+        (path "/b50e6663-8ab4-40d5-87b6-e8da75a8c1a0" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
 )

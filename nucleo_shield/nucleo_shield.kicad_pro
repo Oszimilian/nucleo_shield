@@ -467,6 +467,19 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "b50e6663-8ab4-40d5-87b6-e8da75a8c1a0",
+      ""
+    ],
+    [
+      "9a94286b-2c0f-4aa6-93fe-9489f0394719",
+      "STM_NUCLEO"
+    ],
+    [
+      "558da77b-c63c-481f-90c9-1b6149e4bb4a",
+      "Header_Left"
+    ]
+  ],
   "text_variables": {}
 }
